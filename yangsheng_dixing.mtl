@@ -12,8 +12,8 @@ newmtl diamian
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka yangsheng_dimian.jpg
-	map_Kd yangsheng_dimian.jpg
+	map_Ka https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/yangsheng_dimian.jpg
+	map_Kd https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/yangsheng_dimian.jpg
 
 newmtl dizhiceng
 	Ns 10.0000
@@ -26,8 +26,8 @@ newmtl dizhiceng
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka dizhiyanceng01.jpg
-	map_Kd dizhiyanceng01.jpg
+	map_Ka https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/dizhiyanceng01.jpg
+	map_Kd https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/dizhiyanceng01.jpg
 
 newmtl diceng
 	Ns 10.0000
@@ -40,5 +40,5 @@ newmtl diceng
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka di02.jpg
-	map_Kd di02.jpg
+	map_Ka https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/di02.jpg
+	map_Kd https://raw.githubusercontent.com/louislau258/3d-models/refs/heads/main/di02.jpg
